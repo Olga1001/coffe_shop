@@ -1,0 +1,10 @@
+.product_offer {
+    background: no-repeat center / cover;
+    color: #fff;
+    text-align: center;
+    & .container {
+        min-height: 260px;
+        flex-direction: column;
+        padding-top: 45px;
+    }
+}
